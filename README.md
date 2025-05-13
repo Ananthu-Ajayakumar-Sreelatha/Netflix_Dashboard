@@ -82,5 +82,5 @@ Key fields:
 ---
 
 ## 🤝 Let's Connect
-Feel free to connect with me on [LinkedIn](https://linkedin.com) or explore more of my projects!
+Feel free to connect with me on [LinkedIn](www.linkedin.com/in/ananthu-ajayakumar-sreelatha-1a469b254) or explore more of my projects!
 
