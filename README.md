@@ -46,7 +46,7 @@ Key fields:
 
 ## 📷 Dashboard Preview
 
-![Netflix Dashboard](Screenshot 2025-05-13 153600.png)
+![Netflix Dashboard](ScreenshotDashboardnetflix.png)
 
 ---
 
